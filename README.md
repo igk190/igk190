@@ -2,7 +2,7 @@
 
 ### 🎓 Certifications
 
-View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen)
+View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen):
 
 - PCEP™ – Certified Entry-Level Python Programmer (Python Institute)
 - Networking Basics (Cisco)
