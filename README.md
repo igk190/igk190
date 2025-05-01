@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🎓 Certifications
+
+View my verified badges on Credly: [Gracia Kleijnen on Credly](https://www.credly.com/users/gracia-kleijnen)
+
+- PCEP™ – Certified Entry-Level Python Programmer (Python Institute)
+- Networking Basics (Cisco)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igk190&layout=compact)
 
 <!--
