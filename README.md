@@ -4,7 +4,7 @@
 
 View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen):
 
-- Microsoft Certified: Azure Fundamentals (AZ-900 Microsoft, 9 May 2025)
+- Microsoft Certified: Azure Fundamentals AZ-900 (Microsoft, 9 May 2025)
 - PCEP™ – Certified Entry-Level Python Programmer (Python Institute, 20 April 2025)
 - Networking Basics (Cisco, 11 April 2025)
 
