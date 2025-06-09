@@ -10,6 +10,8 @@ View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igk190&layout=compact)
 
+🌱 I’m currently (re)learning Python! 🐍 See what I'm working on in the [100DaysPython](https://github.com/igk190/100DaysPython) repo.
+
 <!--
 **igk190/igk190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
