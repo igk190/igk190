@@ -12,7 +12,7 @@ View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen
 
 🌱 I’m currently [(re)learning Python](https://github.com/igk190/100DaysPython)! 🐍 And working on a [cashback tracking app](https://github.com/igk190/100DaysPython) with Express, Bootstrap and Pug.
 
-🤔 I’m looking for help with: finding a **Pflichtpraktikum ab Februar**! Reach me on [LinkedIn](https://de.linkedin.com/in/gracia-kleijnen).
+🤔 I’m looking for help with: finding a **Pflichtpraktikum** ab Februar! Reach me on [LinkedIn](https://de.linkedin.com/in/gracia-kleijnen).
 
 <!--
 **igk190/igk190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
