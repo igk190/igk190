@@ -12,8 +12,6 @@ View my [verified badges on Credly](https://www.credly.com/users/gracia-kleijnen
 
 🌱 I'm currently working on a [cashback tracking app](https://github.com/igk190/100DaysPython) built with Express, Bootstrap and Pug, taking a React course on Udemy, and [(re)learning Python](https://github.com/igk190/100DaysPython)! 🐍
 
-📫 Reach me on [LinkedIn](https://de.linkedin.com/in/gracia-kleijnen).
-
 <!--
 **igk190/igk190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
